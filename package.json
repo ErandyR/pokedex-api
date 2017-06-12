@@ -1,0 +1,25 @@
+{
+  "name": "poquedex",
+  "version": "1.0.0",
+  "description": "Poquedex con JSON",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabyLuTrejo/poquedex.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Gabriela Trejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabyLuTrejo/poquedex/issues"
+  },
+  "homepage": "https://github.com/gabyLuTrejo/poquedex#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
